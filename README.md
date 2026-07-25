@@ -80,3 +80,6 @@ src/main/java/com/plusti/practicagit/
 ├── repository/                   # Interfaces Spring Data JPA
 └── service/                      # Lógica de negocio
 ```
+
+## Descricion
+Proyecto del taller de Git con java Sprint
